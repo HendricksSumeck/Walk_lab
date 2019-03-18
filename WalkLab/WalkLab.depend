@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1544117607 source:c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\fila.c
+	"incluir.h"
+
+1544134354 source:c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\main.c
+	"incluir.h"
+
+1544134892 source:c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\labirinto.c
+	"incluir.h"
+	<conio.h>
+
+1544121389 c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\fila.h
+
+1544114334 c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\incluir.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	"fila.h"
+	"monstro.h"
+	"personagem.h"
+
+1543930213 c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\monstro.h
+
+1544119771 c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\personagem.h
+
+1543930234 source:c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\monstro.c
+	"incluir.h"
+
+1544134818 source:c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\personagem.c
+	"incluir.h"
+
+1543934843 source:c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\fila.c
+	"incluir.h"
+
+1544023897 c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\incluir.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"fila.h"
+	"monstro.h"
+	"personagem.h"
+
+1544022413 c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\fila.h
+
+1543934843 c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\monstro.h
+
+1543934843 c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\personagem.h
+
+1544022413 source:c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\labirinto.c
+	"incluir.h"
+	<conio.h>
+
+1544024251 source:c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\main.c
+	"incluir.h"
+
+1543934843 source:c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\monstro.c
+	"incluir.h"
+
+1543934843 source:c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\personagem.c
+	"incluir.h"
+
+1544024279 source:c:\algoritmos\estrutura de dados\aps\git\aps---estrutura-de-dados\walklab\menu.c
+	"incluir.h"
+	<conio.h>
+	<windows.h>
+
+1544133370 source:c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\menu.c
+	"incluir.h"
+	<conio.h>
+	<windows.h>
+
+1544121357 source:c:\users\hendr\desktop\aps---estrutura-de-dados\walklab\batalha.c
+	"incluir.h"
+
+1544121357 source:c:\users\hendr\desktop\walklab\batalha.c
+	"incluir.h"
+
+1544114334 c:\users\hendr\desktop\walklab\incluir.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	"fila.h"
+	"monstro.h"
+	"personagem.h"
+
+1546496016 c:\users\hendr\desktop\walklab\fila.h
+
+1543930213 c:\users\hendr\desktop\walklab\monstro.h
+
+1544119771 c:\users\hendr\desktop\walklab\personagem.h
+
+1544117607 source:c:\users\hendr\desktop\walklab\fila.c
+	"incluir.h"
+
+1545367670 source:c:\users\hendr\desktop\walklab\main.c
+	"incluir.h"
+
+1544133370 source:c:\users\hendr\desktop\walklab\menu.c
+	"incluir.h"
+	<conio.h>
+	<windows.h>
+
+1543930234 source:c:\users\hendr\desktop\walklab\monstro.c
+	"incluir.h"
+
+1544134818 source:c:\users\hendr\desktop\walklab\personagem.c
+	"incluir.h"
+
+1545417077 source:c:\users\hendr\desktop\walklab\labirinto.c
+	"incluir.h"
+	<conio.h>
+
+1545367539 source:c:\users\hendr\desktop\walklab\arquivo.c
+	"incluir.h"
+
+1545367539 source:c:\users\hendr\downloads\projetos c\walklab\arquivo.c
+	"incluir.h"
+
+1544114334 c:\users\hendr\downloads\projetos c\walklab\incluir.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	"fila.h"
+	"monstro.h"
+	"personagem.h"
+
+1546496016 c:\users\hendr\downloads\projetos c\walklab\fila.h
+
+1543930213 c:\users\hendr\downloads\projetos c\walklab\monstro.h
+
+1544119771 c:\users\hendr\downloads\projetos c\walklab\personagem.h
+
+1544121357 source:c:\users\hendr\downloads\projetos c\walklab\batalha.c
+	"incluir.h"
+
+1544117607 source:c:\users\hendr\downloads\projetos c\walklab\fila.c
+	"incluir.h"
+
+1546496120 source:c:\users\hendr\downloads\projetos c\walklab\labirinto.c
+	"incluir.h"
+	<conio.h>
+
+1545367670 source:c:\users\hendr\downloads\projetos c\walklab\main.c
+	"incluir.h"
+
+1544133370 source:c:\users\hendr\downloads\projetos c\walklab\menu.c
+	"incluir.h"
+	<conio.h>
+	<windows.h>
+
+1543930234 source:c:\users\hendr\downloads\projetos c\walklab\monstro.c
+	"incluir.h"
+
+1544134818 source:c:\users\hendr\downloads\projetos c\walklab\personagem.c
+	"incluir.h"
+
