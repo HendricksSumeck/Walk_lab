@@ -1,0 +1,17 @@
+# Compilados e Objetos
+*.o
+obj/
+walklab
+walklab.exe
+*.exe
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e Editores
+.idea/
+.vscode/
+*.cbp
+*.depend
+*.layout

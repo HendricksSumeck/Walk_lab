@@ -9,6 +9,9 @@ Fila *NewFila(void){
     return f;
 }
 
+// A Fila é uma Estrutura de Dados baseada no conceito FIFO (Primeiro a Entrar, Primeiro a Sair).
+// O algoritmo de busca em largura usa esta Fila para não pular os blocos vizinhos
+// processando sempre as poças mais velhas primeiro.
 int enfila(Fila *f, int i, int j){
     Nodo *novo = (Nodo *) malloc (sizeof(Nodo));
     if(novo == NULL)
@@ -25,6 +28,8 @@ int enfila(Fila *f, int i, int j){
     return 1;
 }
 
+// Retira o nó da cabeça da fila e o copia para int* i e int* j passados por referência,
+// avisando o Labirinto exatamente de onde a onda deve continuar.
 int desenfila(Fila *f, int *i, int *j){
     if(f->inicio == NULL)
         return 0;
