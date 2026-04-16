@@ -4,7 +4,7 @@ Um programa escrito inteiramente em linguagem C capaz de plotar labirintos em vi
 
 Este projeto serve não somente como um game de mapas via prompt, mas como um excelente estudo funcional sobre rotinas matemáticas de alocação de memória dinâmica, renderização visual CLI e estruturas de **Filas** na linguagem C.
 
-![Exibição CLI Labirinto](./Gif%20WalkLab.gif)
+<img src="./Gif WalkLab.gif" alt="Exibição CLI Labirinto" width="100%" />
 
 ## Funcionalidades Principais 🌟
 - Leitura dinâmica de matrizes em arquivos de texto localizados em `labirintos/`.
